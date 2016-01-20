@@ -1,2 +1,2 @@
 # temat_11
-PUAP
+Analiza regulatorów strojonych metodą automatycznego strojenia przekaźnikowego dla zestawu problemów 1.
